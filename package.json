@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+    
+  },
+  "scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js",
+  "server": "cd backend && nodemon index.js",
+  "client": "cd zomato-frontend && npm start",
+  "all": "concurrently \"npm run server\" \"npm run client\""
+}
+
+}

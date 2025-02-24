@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zomato-451917",
+  "private_key_id": "fd021a674721d9885d337c8ed8eca814a36572ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDhPbBOjfDfIjsy\nO9iHcvfIeUrUrfVJrd6NrGITstfQK0tfGKxIA/ckKjTOOuJlQy/b3OuZrZ73/JOT\njiej3KSywRqTVzfnkjskvE6e71tKnG5OwE1shSlmAWSi5XTOosn2Gz5400rlBuJa\nOoxL1XZKbxiZRZHMr1BGkbm1OY9J4PZWsZy3UPwDHaP58xhc4CpH8iaaTwvjZQf7\nUrMdEG+eawVj1w+PflLO490XUNTmjaFxfaTbRMdh4uzk3UJeNVwv3sBOHLPtrWIP\nUFZEbQM2cUITowwakV5fhWo7i2cKjuZ7g2byVJbvOFt+NAYAIzUQNmkjuDMpJ4ap\n+qAeZwa9AgMBAAECggEAUUnWK0OGvsC35HU8vAV971f27bKqZ6DcRP0FmF5fDL3T\nQcrBwmvL8b1ZuWP++NS6nPqp/JhwWsdI62POYpDqz6hpUuuTPXvE5IkhRrLTm6XB\nGaLFTnjwa+Ps0e1Frp2JjcxfS3PV/7nwTuf6YhPz0QEvO4GkEN7kddN51jGjyOE9\n6Glej69uuNceMf3rxGgvAybEHdu1RfiwHzaLNFnXhI3clSyXHxSPkia2m5ChhAIH\nD78hz/yo5fzGxyNRwviQcPvZZUJEgsesDkHrWF3O6AUL9wcw8Sh33UpdSO9gZ1/D\nB+WLXKR9ON3VcCb3s+udCKusGw0BOhaw1OD/qA6fcQKBgQD+c4eZnSxpercATcyO\na8F5Vj5HKam3W4xxa6fBBC/DwqcLcfm/Pa2klikV1NUS2GrdsPCnNfHq7J5Trwbo\nkQoBFlF2pfpPD2HwpIq+53lhncHlpG8gxmIJxzmCj/+BOaAv7W5v1X/etmGdLFsB\nbe5UO4FkYcJi/bgg4NRef2OGDwKBgQDinKUyJtmPdLmwQlZyXVAu2gBWtZ2iGJn2\nMx5iwuIwI+wkKtPJKG3anMIhVKzisTsbMA2wM5sRE1Fcr4Poj8vEoohIedAdjRKG\nARyurI7DWKctuAh+yTHJg571iCrybagS595K3RpnSkDgXvYoFafmt0Jd1ACA/nP/\nnZNPKS9ScwKBgD/STnKzP459XyVOXj5ivLZocVp8EruQ1Nsl+3+oQyrAyhFO1yum\nlsUvfMKjDYaajcNpPBNUrocULmoi/oKazn2TUX+HBg+KdjBbtQlJGeLoJNgqtEzu\nNWzqcXxUDewlvg4HaanXTSlZaYZ4t6LWJe8utbet5YnaxbJJcjr5jMb1AoGAUb7C\nFLJQ/t/TcBKuDnk8yHnZb236XBPVzisoheXZJBaBQ5azaTgNULQFj3J1Hx1hve/6\nsBodkO5QBkhGJCljDx62XLacbVyLVw2lpBkZMryTKfneDqZTMGcre1TQcT0/SPqd\nhJH3yVTOzGFVGKafN6nZ5fDo8Z9Yhtf34LFxoaMCgYAJtj+4DnovEfafcl61KVGJ\nR0+oKS6HAc/4XaNryS1K7Ddc1huEOTKU86wz2mTDLz9vEEYpqxTuyZcvMI7nktpu\n+oNUUvMmAKo3UKUYLwRSdGfu3HGlfi31Sl8leZFr6xkAcjcUnLs6Dkyyq6ECNC4G\nvAALQd8UwQC/proJ/5QQOA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api-key@zomato-451917.iam.gserviceaccount.com",
+  "client_id": "109992072543858017172",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-key%40zomato-451917.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
