@@ -1,0 +1,13 @@
+{
+    "projects": [
+      {
+        "src": "zomato-frontend/",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "backend/",
+        "use": "@vercel/node"
+      }
+    ]
+  }
+  
